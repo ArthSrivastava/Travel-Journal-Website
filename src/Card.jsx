@@ -12,7 +12,7 @@ export default function Card(props) {
         <div className="info">
           <div className="infoTop">
             <img
-              src="src/assets/location-pointer.png"
+              src="./src/assets/location-pointer.png"
               alt="location-pointer"
               className="location-pointer"
             />
